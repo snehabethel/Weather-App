@@ -13,3 +13,5 @@ Instructions to run this program -
 4. Once you get the notification on the cmd that the server is running, open the browser and type http://localhost:3000/  to view the weather-app
 
 Note: Screenshots of how the app functions has been provided in the Weather - App.docx file that has been attached
+
+This app has been deployed using Heroku. The link for the same is - https://vast-beyond-44793.herokuapp.com/
